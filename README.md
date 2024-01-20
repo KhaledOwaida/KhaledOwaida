@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **KhaledOwaida/KhaledOwaida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a third year software engineering student at Concordia University. I like to code sometimes.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/khaledowaida/)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-forestgreen?style=for-the-badge)](https://www.your-portfolio-url.com)
+
