@@ -20,3 +20,6 @@ I'm a third year software engineering student at Concordia University. I like to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/khaledowaida/)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-forestgreen?style=for-the-badge)](https://www.your-portfolio-url.com)
 
+<div>
+<img align="right" width="300" hspace="10" src="https://github.com/KhaledOwaida/KhaledOwaida/assets/78267871/f2ce1fde-43ac-45e8-a2a3-4643ae442aee">
+</div>
