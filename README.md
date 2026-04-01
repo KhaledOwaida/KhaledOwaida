@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <p>I'm a recent software engineering graduate from Concordia University. I like to software engineer a lot.</p>
+  <p>I'm a recent software engineering graduate from Concordia University. I like to engineer software a lot.</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/khaledowaida/)
   
